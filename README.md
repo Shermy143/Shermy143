@@ -1,16 +1,37 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center">Hola, soy Shermy143👋</h1>
+</div>
+<img src="https://i.imgur.com/BvcaPQ9.jpeg">
 
-<!--
-**Shermy143/Shermy143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mi
 
-Here are some ideas to get you started:
+- 📲 Front-End Developer
+- 📗 Incursionando en SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+## Proyectos *bombitas*
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Agente de IA hospitalario</h3>
+<div align="center">
+<a href="https://github.com/Shermy143/chatcare" target="_blank"></a>
+<p>
+<a href="https://github.com/Shermy143/chatcare" target="_blank">
+</a>
+</p>
+<p>Asistente conversacional de salud que ayuda al paciente a entender su cobertura de seguro antes de atenderse. El agente sugiere especialidades médicas, calcula el copago exacto y recomienda el hospital en red más conveniente.</p>
+</div>
+                                                                                      
+</td>
+
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+                                                                                      
+ 
+</table>                                                                                 
+</div>
+<br>
