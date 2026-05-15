@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Shermy143👋</h1>
 </div>
-<img src="https://i.imgur.com/BvcaPQ9.jpeg">
+<img src="https://i.imgur.com/CKJlGty.jpeg">
 
 ## Sobre mi
 
