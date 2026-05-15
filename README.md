@@ -27,11 +27,9 @@
 </div>                                                             
 </table> 
 
-<br>
-
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 <h3 align="center">Modelo de detección de texto generado</h3>
 <div align="center">
 <a href="https://github.com/Shermy143/tira_proyect" target="_blank"></a>
