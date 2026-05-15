@@ -10,7 +10,7 @@
 
 <br>
 
-## Proyectos *bombitas*
+## Proyectos *interesantes*
 
 <table border="0">
   <tr>
