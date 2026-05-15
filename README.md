@@ -22,12 +22,31 @@
 </a>
 </p>
 <p>Asistente conversacional de salud que ayuda al paciente a entender su cobertura de seguro antes de atenderse. El agente sugiere especialidades médicas, calcula el copago exacto y recomienda el hospital en red más conveniente.</p>
-</div>
-                                                                                      
+</div>                                                                                 
 </td>
-
 </div>                                                             
-</table>                                                                                 
+</table> 
+
+<tr>
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Modelo de detección de texto generado</h3>
+<div align="center">
+<a href="https://github.com/Shermy143/tira_proyect" target="_blank"></a>
+<p>
+<a href="https://github.com/Shermy143/tira_proyect" target="_blank">
+</a>
+</p>
+<p>Modelo finetuneado de la base mStyleDistance para detección de texto generado por Inteligencia Artifical</p>
+</div>                                                                                 
+</td>
+</div>                                                             
+</table> 
+
+
+
 </div>
 <br>
                                                                                       
